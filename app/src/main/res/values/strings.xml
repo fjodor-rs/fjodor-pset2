@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fjodor-pset2</string>
+    <string name="start_button">GET STARTED!</string>
+    <string name="intro_story">Welcome to MadLibs! I will ask you to fill in a few words to complete a story. Just fill in the first thing that comes to mind, we will tell you what kind of word to fill in!</string>
+    <string name="ok">OK</string>
+    <string name="fill_words_explain">Fill in the words to complete the story!</string>
+</resources>
